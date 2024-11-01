@@ -1,0 +1,122 @@
+header{
+    background-color:#222f4e;
+    display: block;
+
+}
+
+header img {
+    width: 20%;
+}
+
+ul {
+    padding: 0;
+    background-color: #354758;
+    color: white;
+    margin: 0;
+}
+
+li{
+    display: inline;
+    padding: 0.7em;
+    cursor: pointer;
+}
+
+body {
+    background-color: #eaeded;
+}
+
+.topbar {
+    background-color: #f56600;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url("assets/bg-image.png");
+    color: white;
+    height: 10em;
+    width: 100%;
+}
+
+article {
+    background-color: white;
+    padding: 0.4em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+main a {
+    color: #017185;
+    text-decoration: none;
+    padding-left: 0.6em;
+}
+
+.gift {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+div img {
+    margin: 0.3em;
+}
+.tablet {
+    display: inline;
+    width: 23%;
+}
+
+.pc {
+    display: inline;
+    width: 23%;
+}
+
+.orologi {
+    display: inline;
+    width: 23%;
+}
+
+.animali {
+    display: inline;
+    width: 23%;
+}
+
+.vr {
+    width: 100%;
+}
+
+.vrDescription {
+    text-align: center;
+    margin-top: 0;
+}
+
+.sound{
+    width: 100%;
+}
+
+.soundDescription{
+    text-align: center;
+    margin-top: 0;
+}
+
+footer a {
+    display: block;
+    text-align: center;
+    background-color: #354758;
+    color: white;
+}
+
+footer {
+    background-color:#222f4e;
+    display: block;
+    text-align: center;
+}
+
+footer img {
+    width: 25%;
+    padding: 2em;
+}
